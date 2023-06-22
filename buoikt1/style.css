@@ -1,0 +1,50 @@
+.container-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 24px;
+    align-items: center;
+}
+
+i.fa-solid fa-face-smile {
+    color: yellow;
+    width: 18px;
+    height: 20px;
+}
+
+.container-header__bar {
+    display: flex;
+    align-items: center;
+}
+
+.container-header__othed {
+    display: flex;
+    align-items: center;
+}
+
+.container-header__othed1 {
+    width: 100px;
+    height: 40px;
+}
+
+.container-header__other2 {
+    width: 100px;
+    height: 40px;
+}
+
+.container-header__other3 {
+    width: 100px;
+    height: 40px;
+}
+
+.container-header__bar h3 {
+    font-size: 24px;
+    font-weight: 400;
+    margin-left: 27px;
+}
+
+.card-user {
+    display: flex;
+    width: 50px;
+    max-width: 400px;
+    border-radius: 50px;
+}
